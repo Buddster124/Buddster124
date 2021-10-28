@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Buddster124/Buddster124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/Buddster124"><img src="https://api.daily.dev/devcards/0cfb95a3991342518b9df5c9b259cff9.png?r=uj1" width="400" alt="Anthony Budd's Dev Card"/></a>
