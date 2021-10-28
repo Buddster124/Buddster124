@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/Buddster124"><img src="https://github.com/Buddster124/Buddster124/blob/master/devcard.svg" width="400" alt="Anthony Budd's Dev Card"/></a>
